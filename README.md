@@ -4,7 +4,7 @@ A full-stack GitHub profile and repository explorer built with React + Node.js.
 Search any GitHub username to explore their profile, repositories, language breakdown, and trending repos.
 
 ## 🔗 Live Demo
-(https://github-explorer-eight-beige.vercel.app)
+https://github-explorer-eight-beige.vercel.app
 
 ---
 
